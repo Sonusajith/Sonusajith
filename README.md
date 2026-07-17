@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&customColorList=2,12,20,24&text=PATNAM%20SHAIK%20SONUSAJITH&fontColor=ffffff&fontSize=38&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=FF003C,FF5E00,FFD000&text=██████%20PATNAM%20SHAIK%20SONUSAJITH%20██████&fontColor=FFFFFF&fontSize=38&font=JetBrains%20Mono&animation=twinkling"/>
 </p>
 ## Software Devloper | Tech Enthusiast
 
