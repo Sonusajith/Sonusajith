@@ -1,6 +1,6 @@
-# ╔══════════════════════════════════════╗
-# ║  PATNAM SHAIK SONUSAJITH            ║
-# ╚══════════════════════════════════════╝
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&customColorList=2,12,20,24&text=PATNAM%20SHAIK%20SONUSAJITH&fontColor=ffffff&fontSize=38&animation=fadeIn"/>
+</p>
 ## Software Devloper | Tech Enthusiast
 
 <p align="left">
