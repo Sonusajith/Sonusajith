@@ -1,4 +1,4 @@
-# 0x01 // PATNAM SHAIK SONUSAJITH
+# ██████████████████████████████ PATNAM SHAIK SONUSAJITH ██████████████████████████████
 ## Software Devloper | Tech Enthusiast
 
 <p align="left">
@@ -7,33 +7,39 @@
 
 ---
 
-### 0x02 // INITIALIZING_BIOGRAPHY
+### ◢  INITIALIZING_BIOGRAPHY
 Computer Science & Engineering student at **Madanapalle Institute of Technology and Science**. I specialize in building robust, high-performance backend architectures using the Java ecosystem. My approach combines technical rigor with modern UI/UX principles to deliver seamless end-to-end applications that prioritize scalability and security.
 
 ---
 
-### 0x03 // TECH_STACK.exe
+### ◢  TECH_STACK.exe
+
 #### [ PROGRAMMING_LANGUAGES ]
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### [ FRAMEWORKS_&_LIBRARIES ]
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Spring JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring_Data_JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 #### [ DATABASES_&_TOOLS ]
+
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### 0x04 // FEATURED_PROJECTS
+### ◢  FEATURED_PROJECTS
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -79,15 +85,15 @@ Computer Science & Engineering student at **Madanapalle Institute of Technology 
 
 ---
 
-### 0x05 // ANALYTICS_&_CORE_METRICS
-<p align="center">
+### ◢  ANALYTICS_&_CORE_METRICS
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sonusajith&show_icons=true&theme=tokyonight&bg_color=050505&title_color=00F5FF&text_color=F5F5F5&icon_color=00F5FF&border_color=111111" alt="GitHub Stats" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonusajith&layout=compact&theme=tokyonight&bg_color=050505&title_color=00F5FF&text_color=F5F5F5&border_color=111111" alt="Top Languages" width="300" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonusajith&theme=tokyonight&background=050505&stroke=111111&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" alt="GitHub Streak" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonusajith&theme=tokyonight" alt="Profile Summary" width="100%" />
@@ -95,32 +101,17 @@ Computer Science & Engineering student at **Madanapalle Institute of Technology 
 
 ---
 
-### 0x06 // CURRENT_LEARNING_ROADMAP
-- [x] **Core Java & Spring Boot Mastery**
-- [ ] **Spring Security & OAuth2 Implementation**
-- [ ] **Microservices Architecture with Spring Cloud**
-- [ ] **Containerization & Orchestration (Docker/K8s)**
-- [ ] **Distributed Systems & System Design**
-- [ ] **500+ DSA Problems (LeetCode/GFG)**
 
----
 
-### 0x07 // ACHIEVEMENTS_&_MILESTONES
-- 🏆 Top Performer in College Coding Hackathons
-- 📜 Oracle Certified Associate, Java SE 8 Programmer (Planned)
-- 🚀 Built 3+ Production-ready Full Stack Applications
-
----
-
-### 0x08 // ESTABLISH_CONNECTION
+### ◢  ESTABLISH_CONNECTION
 <p align="left">
-  <a href="mailto:sonusajith@example.com">
+  <a href="mailto:sonusajith02@gmail.com">
     <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=white&border=1&borderColor=00F5FF" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/sonusajith">
     <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=white&border=1&borderColor=00F5FF" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/sonusajith">
+  <a href="https://github.com/Sonusajith">
     <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white&border=1&borderColor=00F5FF" alt="GitHub" />
   </a>
   <a href="#">
