@@ -1,5 +1,5 @@
 # 0x01 // PATNAM SHAIK SONUSAJITH
-## Java Full Stack Developer | Backend Architecture Specialist
+## Software Devloper | Tech Enthusiast
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00F5FF&center=false&vCenter=true&width=600&lines=Architecting+Scalable+Backend+Systems;Engineering+RESTful+APIs+with+Spring+Boot;Full+Stack+Development+%7C+React.js+%2B+MySQL;Computer+Science+Engineering+Student" alt="Typing Animation" />
