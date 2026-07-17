@@ -1,4 +1,4 @@
-# ████████████████ PATNAM SHAIK SONUSAJITH ████████████████
+# ██████ PATNAM SHAIK SONUSAJITH ██████
 ## Software Devloper | Tech Enthusiast
 
 <p align="left">
